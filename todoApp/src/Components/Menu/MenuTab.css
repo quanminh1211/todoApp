@@ -1,0 +1,25 @@
+.menu {
+    display: flex;
+    justify-content: center;
+    gap: 100px ;
+    border-bottom: 2px solid #a39797;
+    max-width: 500px;
+    margin-left: 35%;
+}
+
+.menu p {
+    font-size: 20px;
+    font-weight: 400;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+a {
+    color: #494949;
+    text-decoration: none;
+}
+
+a.active {
+    
+    border-bottom: 3px solid #261c95;
+}  

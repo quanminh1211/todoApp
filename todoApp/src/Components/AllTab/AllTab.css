@@ -1,0 +1,15 @@
+.allTab-container {
+    padding-top: 30px;
+    margin-left: 35%;
+}
+
+
+.taskItem {
+    display: flex;
+    padding-top: 10px;
+    font-weight: 550;
+    max-height: 30px;
+    align-items: center;
+}
+
+

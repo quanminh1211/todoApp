@@ -1,0 +1,37 @@
+.completedTab-container {
+    padding-top: 30px;
+    margin-left: 35%;
+    max-width: 500px;
+}
+
+
+.taskLeft {
+    display: flex;
+    padding-top: 10px;
+    font-weight: 550;
+    max-height: 30px;
+    align-items: center;
+}
+.taskItems p {
+    text-decoration: line-through;
+}
+
+.taskItems {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.deleteAll {
+    margin-left: 82%;
+    margin-top: 10px;
+    width: 100px;
+    height: 30px;
+    background-color: red;
+    color: #fff;
+    font-weight: bold;
+    border: none;
+    border-radius: 10px;
+}
+
+

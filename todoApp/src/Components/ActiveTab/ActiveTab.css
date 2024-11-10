@@ -1,0 +1,39 @@
+.activeTab-container {
+    padding-top: 30px;
+    margin-left: 35%;
+}
+
+
+.taskItem {
+    display: flex;
+    padding-top: 10px;
+    font-weight: 550;
+    max-height: 30px;
+    align-items: center;
+}
+
+
+.add-container {
+    display: flex;
+    width: 500px;
+    justify-content: space-between;
+    gap: 20px ;
+}
+
+.inputTask {
+    width: 350px;
+    height: 48px;
+    border: 1px solid #a9a9a9;
+    border-radius: 10px;
+    padding-left: 20px;
+    outline: none;
+}
+
+.addTask {
+    width: 70px;
+    height: 48px;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(69, 69, 220);
+    color: #fff;
+}
